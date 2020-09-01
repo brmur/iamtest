@@ -6,6 +6,7 @@ This is a workspace where you can find working AWS SDK for JavaScript (V3) IAM s
 # Install dependencies.
 ```
 npm install ts-node -g
+yarn add --dev jest
 cd typescript_environment
 yarn
 ```
